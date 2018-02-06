@@ -16,3 +16,4 @@ Week 2
 * [Gabor](https://youtu.be/Dj45Ie0V8XE)
 * [Manas](https://www.youtube.com/watch?v=QorA64NELZA&feature=youtu.be)
 * [Ali Shazal](https://youtu.be/4xDPGTm_Mtw)
+* [Aadi](https://youtu.be/SkvkfQPIkWU)
