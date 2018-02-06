@@ -15,3 +15,4 @@ Week 2
 * [Yuxin](https://www.youtube.com/watch?v=pzO9ZxKTuCQ)
 * [Gabor](https://youtu.be/Dj45Ie0V8XE)
 * [Manas](https://www.youtube.com/watch?v=QorA64NELZA&feature=youtu.be)
+* [Ali Shazal](https://youtu.be/4xDPGTm_Mtw)
