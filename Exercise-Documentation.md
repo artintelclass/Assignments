@@ -13,3 +13,4 @@ Week 2
 * [Farzan](https://www.youtube.com/watch?v=UKoKE9bTBCg)
 * [Krishna](https://www.youtube.com/watch?v=LdYKmvN6Ezc&feature=youtu.be) 
 * [Yuxin](https://www.youtube.com/watch?v=pzO9ZxKTuCQ)
+* [Gabor](https://youtu.be/Dj45Ie0V8XE)
