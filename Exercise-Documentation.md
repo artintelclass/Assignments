@@ -8,3 +8,6 @@ Week 1
 * [Manas](https://vimeo.com/253150288) password is artintel
 * [Ali](https://youtu.be/_6pwRYZwnII) (Please view the video in full screen and in 1080p resolution)
 * [Nick](https://vimeo.com/254180235) password: artintel
+
+Week 2
+* [Farzan](https://www.youtube.com/watch?v=UKoKE9bTBCg)
