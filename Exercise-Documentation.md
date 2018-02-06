@@ -14,3 +14,4 @@ Week 2
 * [Krishna](https://www.youtube.com/watch?v=LdYKmvN6Ezc&feature=youtu.be) 
 * [Yuxin](https://www.youtube.com/watch?v=pzO9ZxKTuCQ)
 * [Gabor](https://youtu.be/Dj45Ie0V8XE)
+* [Manas](https://www.youtube.com/watch?v=QorA64NELZA&feature=youtu.be)
