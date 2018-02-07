@@ -23,4 +23,4 @@ Exercise:
   
 ### Week 3 - Due Monday, February 12
 * **Read & Post a Response** AI Revolution Part [2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
-* **Working Prototype Interactive Project** See assignment repo for more info. We will do user testing in class.
+* **Working Prototype - Interactive Project** See assignment repo for more info. We will do user testing in class.
