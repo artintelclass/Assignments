@@ -17,3 +17,4 @@ Week 2
 * [Manas](https://www.youtube.com/watch?v=QorA64NELZA&feature=youtu.be)
 * [Ali Shazal](https://youtu.be/4xDPGTm_Mtw)
 * [Aadi](https://youtu.be/SkvkfQPIkWU)
+* [Nick](https://vimeo.com/254620592) password: artintel
