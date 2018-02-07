@@ -10,6 +10,7 @@ Week 1
 * [Nick](https://vimeo.com/254180235) password: artintel
 
 Week 2
+* [Alejandra](https://youtu.be/E-fPGA-tQAg) 
 * [Farzan](https://www.youtube.com/watch?v=UKoKE9bTBCg)
 * [Krishna](https://www.youtube.com/watch?v=LdYKmvN6Ezc&feature=youtu.be) 
 * [Yuxin](https://www.youtube.com/watch?v=pzO9ZxKTuCQ)
