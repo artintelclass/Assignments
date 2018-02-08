@@ -1,3 +1,5 @@
+
+
 The second reading was, according to me, a bit more interesting than the first one. Although the first one did a good job of establishing the basics and explaining how it was all quite possible, the second one was actually the one that gave us a good idea of the magnitude of the issue at hand.
 
 We saw a lot of the potential benefits of ASI. Medical, Environmental, IMMORTALITY!! all sounded like good things. But were they actually. As I had mentioned in my previous post, I dont think all these benefits are worth the risk. We could also face extinction if things dont go the way we planned. 
