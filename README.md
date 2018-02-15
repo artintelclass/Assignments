@@ -29,7 +29,9 @@ Exercise:
 
 ### Week 4 - Due Monday, February 19
 * ***INTERACTIVE PROJECT***
-* **Read & Post a Combined Response to both articles**
+
+### Week 4 - Due Wednesday, February 21
+* **Read & Post**
   * [AI programs exhibit racial and gender biases](https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals)
   * [Is AI Sexist](http://foreignpolicy.com/2017/01/16/women-vs-the-machine/)
   
