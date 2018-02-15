@@ -21,4 +21,3 @@ Week 2
 * [Nick](https://vimeo.com/254620592) password: artintel
 
 User Testing
-*
