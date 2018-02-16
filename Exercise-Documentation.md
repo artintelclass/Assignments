@@ -25,6 +25,5 @@ User Testing
 * [Krishna 1](https://youtu.be/SotKJlGLatc), [Krishna 2](https://youtu.be/RInJLYd5LOk)
 * [Gabor](https://youtu.be/hhVAQLKRq88)
 * Yuzin Sorry friends, I did not receive my user testing videos shooted by your phones, could you please send me the videos or help me to upload them if you have? Thank you so much!
-
-*[Manas](https://www.youtube.com/watch?v=GuW2UtWIzAU), [Manas2](https://www.youtube.com/watch?v=eKlrWJCkOg4), [Manas3](https://www.youtube.com/watch?v=N2nOqKBLDso)
+* [Manas](https://www.youtube.com/watch?v=GuW2UtWIzAU), [Manas2](https://www.youtube.com/watch?v=eKlrWJCkOg4), [Manas3](https://www.youtube.com/watch?v=N2nOqKBLDso)
 
