@@ -21,3 +21,4 @@ Week 2
 * [Nick](https://vimeo.com/254620592) password: artintel
 
 User Testing
+* [Aadi](https://youtu.be/zebaHpginQI), [Aadi](https://youtu.be/hMMofna8Z3g), [Aadi](https://youtu.be/jvUD_hfI7rI)
