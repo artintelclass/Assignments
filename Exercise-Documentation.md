@@ -24,7 +24,7 @@ User Testing
 * [Aadi](https://youtu.be/zebaHpginQI), [Aadi](https://youtu.be/hMMofna8Z3g), [Aadi](https://youtu.be/jvUD_hfI7rI)
 * [Krishna 1](https://youtu.be/SotKJlGLatc), [Krishna 2](https://youtu.be/RInJLYd5LOk)
 * [Gabor](https://youtu.be/hhVAQLKRq88)
-* [Yuxin](https://www.youtube.com/watch?v=zpOcNG5a1Rg)
+* [Yuxin](https://www.youtube.com/watch?v=zpOcNG5a1Rg)||[Yuxin](https://youtu.be/uBmx-9Mp8Yc)||[Yuxin](https://youtu.be/8ppaDidakyw)
 * [Farzan 1](https://www.youtube.com/watch?v=KgQ6gdl2p10), [Farzan 2](https://www.youtube.com/watch?v=GZNP5Ut9flU), [Farzan 3](https://www.youtube.com/watch?v=CKDHWPN_OSk), [Farzan 4](https://www.youtube.com/watch?v=CKDHWPN_OSk), [Farzan 5](https://www.youtube.com/watch?v=bn0krdsw19s)
 * [Nick](https://vimeo.com/256119543) || [Nick](https://vimeo.com/256119605) || [Nick](https://vimeo.com/256119647)
 * [Ali](https://drive.google.com/open?id=1RcwfNF3gYoTwywc8b-AUoq5nwtHGlRhI)
