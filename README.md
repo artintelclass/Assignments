@@ -37,6 +37,6 @@ Exercise:
   
 ### Week 5 - Due Monday, February 26
 * **Read & Post** 
- * [Machine Ethics](https://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
- * [Speculative Design Chapter 1](http://readings.design/PDF/speculative-everything.pdf)
+  * [Machine Ethics](https://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
+  * [Speculative Design Chapter 1](http://readings.design/PDF/speculative-everything.pdf)
   
