@@ -35,3 +35,8 @@ Exercise:
   * [AI programs exhibit racial and gender biases](https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals)
   * [Combating Bias](https://www.bloomberg.com/news/articles/2017-12-04/researchers-combat-gender-and-racial-bias-in-artificial-intelligence)
   
+### Week 5 - Due Monday, February 26
+* **Read & Post** 
+ * [Machine Ethics](https://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
+ * [Speculative Design Chapter 1](http://readings.design/PDF/speculative-everything.pdf)
+  
