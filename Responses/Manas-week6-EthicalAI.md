@@ -12,6 +12,8 @@ I agree with the author that in the end the best solution would be to have a com
 
 The reading on radical speculative design was a very refreshing and 'radical' piece. I am about to take part in the NYUAD 24X in a few hours and the reading seemed like a very good way for me to prepare myself for the event. The idea of letting my thoughts flow freely and letting my imagination run wild is exactly what I need to make something radically different in 242 hours. 
 There was a part in the reading that said something about how it is very difficult for us to comprehend alternatives to some existing systems. But, alternatives are exactly what we need. 
+
 I really enjoyed reading about the idea of how speculative design is very important because ' design’s inbuilt optimism can
 greatly complicate things'. We need a revolution in changing the way we relate to reality. Redifining our realtionship with reality is the key to success. 
+
 There was a diagram in the reading that helped me put things in perspective in terms of what we want and how to go about it. This sketch had the possible, probable, plausible etc. options that we had. We need to consider all the possibilities that we have and not discard any options. Only then will we be able to come as a group and decide on a future that is preferable. This framework can be applied to fixing problems in a lot of areas from architecture to technological invention. 
