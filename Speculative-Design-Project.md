@@ -61,10 +61,9 @@ Overall, our speculation is based on the promising development of currently exis
 
 
 
-#### Monitor Screen 
+#### Monitor Screen(https://alpha.editor.p5js.org/zygugi/sketches/SyIog1ycz)
 ![0](https://i.imgur.com/mTAnuYP.png)
 ![1](https://i.imgur.com/lRmNUUX.png)
 ![2](https://imgur.com/T7gnDwx.png)
-[Monitor Screen](https://alpha.editor.p5js.org/zygugi/sketches/SyIog1ycz)
 
 
