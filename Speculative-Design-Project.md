@@ -20,6 +20,9 @@ Our idea was to use the format of a corporate-positivist type informational broc
 
 In the pamphlet we wanted to demonstrate how much of a user’s information is relinquished to Horizon, in terms of financial information and bio-data specifically. It was important for us to also show a future where people are quite willing to give this away for the promise of more “things.” It’s interesting to contrast this with present situations where it isn’t quite clear what we are receiving in exchange for the information we give away, and Horizon serves as a kind of hyperbolization of this. We give so much away though it’s not very clear what we receive in return.
 
+![Pamhplet_1]()
+
+
 
 #### Company Logos
 
