@@ -22,11 +22,11 @@ In the pamphlet we wanted to demonstrate how much of a user’s information is r
 
 ![Pamhplet_1](https://imgur.com/zpK1rVi.png)
 
-![Pamhplet_2](https://imgur.com/yrHYNVx)
+![Pamhplet_2](https://imgur.com/yrHYNVx.png)
 
-![Pamhplet_3](https://imgur.com/j5mRxsF)
+![Pamhplet_3](https://imgur.com/j5mRxsF.png)
 
-![Pamhplet_4](https://imgur.com/DOzbLoq)
+![Pamhplet_4](https://imgur.com/DOzbLoq.png)
 
 
 #### Company Logos
