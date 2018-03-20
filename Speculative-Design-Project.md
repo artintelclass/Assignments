@@ -41,3 +41,25 @@ In the pamphlet we wanted to demonstrate how much of a user’s information is r
 [Outer part](https://drive.google.com/open?id=16Lmm4oCb8TwZ-yd8DX1qPXh9gXdC3CE3)
 
 [Inner part](https://drive.google.com/open?id=1VFw6XyZJyjP3PsHmvy1rphr5i9L9VCtx)
+
+
+
+
+# No Way To Hide by Ali & Yuxin
+
+For our speculative project, we were inspired by the video where a MIT team tried to detect people's heart rate to speculate their mood, and we decided to speculate the future security system of the UAE using vein matching. Based on a very intelligent AI algorithm, this system will protect people and prevent crime, but as a dystopian project, we will also present the disadvantage of the super powerful AI when it can know everyone and control everyone by injecting the hormone.
+
+In detail, our speculation is based on a system containing vein matching, planted devices, widely spread Wifi portal to transmit data to central super intelligence AI. Vein matching, also known as vascular technology, is a technique of biometric identification through the analysis of the patterns of blood vessels visible from the surface of the skin. This is done through infrared light which is absorbed by the Haemoglobin in a subject's blood vessels and recorded (as dark patterns) by a camera. 
+
+In current technology, vein matching is one of the most accurate recognition method which works much better than facial recognition. However, current technology level does not allow the vein matching widely applied. In our project, we speculate the planted devices have already applied, and a tiny camera can be attached as part of a planted micro electronic chip that will scan people’s veins and transmit their vein pattern along with their heart rate, blood pressure, breath frequency and hormone levels through Wifi to a super artificial intelligent. This AI will identify the person by comparing the results of vein pattern to its database and analyze the other data to detect abnormalities. Once it detects anything unusual, the AI system will alert the nearest hospital or police station, depending on the situation.
+
+With years of data from every individual, the AI is so well trained by analyzing each individual’s data comprehensively that it knows the behavioral and health patterns of every individual. Comparing the real-time data and individual historical data, it is able to easily predict the future of every individual. This means that it can detect epidemics and viruses, and alert the health authorities on time to implement health safety measures. Moreover, since it knows the behavioral pattern of every individual, it can alert the police when it predicts that a person with criminal record is up to something bad.
+
+
+
+
+
+#### Monitor Screen 
+[Monitor Screen](https://alpha.editor.p5js.org/zygugi/sketches/SyIog1ycz)
+
+
