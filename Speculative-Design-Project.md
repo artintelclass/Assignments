@@ -47,7 +47,7 @@ In the pamphlet we wanted to demonstrate how much of a user’s information is r
 
 # Eve by Ali & Yuxin
 
-## [Project Video: Eve](https://youtu.be/u_3r484y00Q)
+## [Project Final Video: Eve](https://youtu.be/u_3r484y00Q)
 
 For our speculative project, we were inspired by the video where an MIT team tried to detect people's heart rate to speculate their mood, and we decided to speculate the future security system using a technology similar to vein matching. Based on a very intelligent AI algorithm, this system will protect people and prevent crime. But, as a dystopian side to it, we will also present the disadvantage of the super powerful AI when it is hacked and used to control everyone.
 
