@@ -47,7 +47,7 @@ In the pamphlet we wanted to demonstrate how much of a user’s information is r
 
 # Eve by Ali & Yuxin
 
-#### [Project Video: Eve](https://youtu.be/u_3r484y00Q)
+## [Project Video: Eve](https://youtu.be/u_3r484y00Q)
 
 For our speculative project, we were inspired by the video where an MIT team tried to detect people's heart rate to speculate their mood, and we decided to speculate the future security system using a technology similar to vein matching. Based on a very intelligent AI algorithm, this system will protect people and prevent crime. But, as a dystopian side to it, we will also present the disadvantage of the super powerful AI when it is hacked and used to control everyone.
 
@@ -57,7 +57,9 @@ With years of data from every individual, the AI is so well trained by analyzing
 
 Overall, our speculation is based on the promising development of currently existing technologies, and the major focus is that with ample training data collected for decades, a super AI is able to infer people's mood and even the action based on their vital signs. Under this super surveillance, people have no way to hide their mood, and their actions can also be forecasted by the AI. At the age of such a super surveillance, nothing would remain private.
 
-#### [Play with Monitor Screen](https://alpha.editor.p5js.org/zygugi/sketches/SyIog1ycz)
+#### [AI Monitor Screen](https://alpha.editor.p5js.org/zygugi/sketches/SyIog1ycz)
+Screenshots of the AI Screen
+
 ![0](https://i.imgur.com/mTAnuYP.png)
 ![1](https://i.imgur.com/lRmNUUX.png)
 
