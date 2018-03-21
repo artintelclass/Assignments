@@ -47,22 +47,19 @@ In the pamphlet we wanted to demonstrate how much of a user’s information is r
 
 # Eve by Ali & Yuxin
 
-For our speculative project, we were inspired by the video where a MIT team tried to detect people's heart rate to speculate their mood, and we decided to speculate the future security system using a technology similar to vein matching. Based on a very intelligent AI algorithm, this system will protect people and prevent crime, but as a dystopian project, we will also present the disadvantage of the super powerful AI when it is hacked and used to control everyone.
+#### [Project Video: Eve](https://youtu.be/u_3r484y00Q)
+
+For our speculative project, we were inspired by the video where an MIT team tried to detect people's heart rate to speculate their mood, and we decided to speculate the future security system using a technology similar to vein matching. Based on a very intelligent AI algorithm, this system will protect people and prevent crime. But, as a dystopian side to it, we will also present the disadvantage of the super powerful AI when it is hacked and used to control everyone.
 
 In detail, our speculation is based on a system composed of two components. The first component is a chip that is inside every living person. It is connected to the second component, a superintelligent survilliance computer. The planted micro electronic chip scans people’s veins and transmits their heart rate, blood pressure, breath frequency and hormone levels through Wifi to a super artificial intelligent. This AI analyzes data to detect mood changes and predict behavior. Once it detects anything unusual, the AI system will alert the nearest hospital or police station, depending on the situation.
 
 With years of data from every individual, the AI is so well trained by analyzing each individual’s data comprehensively that it knows the behavioral and health patterns of every individual. Comparing the real-time data and individual historical data, it is able to easily predict the future of every individual. This means that it can detect epidemics and viruses, and alert the health authorities on time to implement health safety measures. Moreover, since it knows the behavioral pattern of every individual, it can alert the police when it predicts that a person with criminal record is up to something bad.
 
-In our project, we show that the survilliance can even be used to control people. 
+Overall, our speculation is based on the promising development of currently existing technologies, and the major focus is that with ample training data collected for decades, a super AI is able to infer people's mood and even the action based on their vital signs. Under this super surveillance, people have no way to hide their mood, and their actions can also be forecasted by the AI. At the age of such a super surveillance, nothing would remain private.
 
-Overall, our speculation is based on the promising development of currently existing technologies, and the major argument focus is that with ample training data collected for decades, a super AI is able to infer people's mood and even the action based on their vital signs. Under this super surveillance, people have no way to hide their mood, and their actions can also be forecasted by the AI. What if the AI is not only a super inspector but a powerful judger? In our project, the super AI is designed to be able to control people's mind and action by injecting hormone into people's body to amplify or change their mood. With the data it collected and learned, it may even know how to induce people to have certain action by switching its hormone level. At the age of such a super surveillance, more private fields is exposed to technology.
-
-
-
-#### [Monitor Screen](https://alpha.editor.p5js.org/zygugi/sketches/SyIog1ycz)
+#### [Play with Monitor Screen](https://alpha.editor.p5js.org/zygugi/sketches/SyIog1ycz)
 ![0](https://i.imgur.com/mTAnuYP.png)
 ![1](https://i.imgur.com/lRmNUUX.png)
-![2](https://imgur.com/T7gnDwx.png)
 
 
 # Compainy by Gabor and Nick
