@@ -86,9 +86,9 @@ Other steps in our process included making the presentation pitch because we are
 
 The year is 2040. Artificial intelligence and biotechnology have improved at a tremendous rate. The company Tangerine has released the iChip, a human embedded processor that can partly control what we see and hear. The iChip has the following capabilities:
 
--It can create an overlay of information on top of what we see
--It can record everything we see and hear
--It can extract relevant information from the internet
+*It can create an overlay of information on top of what we see
+*It can record everything we see and hear
+*It can extract relevant information from the internet
 
 By using these three capabilities, it is possible for the iChip to offer a new feature, the ‘auto-conversation’. This feature uses the information that it recorded, as well as relevant information that it found online, to overlay the user’s vision with suggestions for what to say next during a conversation. This has allowed the user to carry out an entire conversation while paying attention to something else, like a video. However, as this technology improved and became more widespread, entire conversations were being carried out between iChips, which has lessened actual human interactions.
 
