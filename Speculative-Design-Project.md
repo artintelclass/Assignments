@@ -57,7 +57,7 @@ In our project, we show that the survilliance can even be used to control people
 
 Overall, our speculation is based on the promising development of currently existing technologies, and the major argument focus is that with ample training data collected for decades, a super AI is able to infer people's mood and even the action based on their vital signs. Under this super surveillance, people have no way to hide their mood, and their actions can also be forecasted by the AI. What if the AI is not only a super inspector but a powerful judger? In our project, the super AI is designed to be able to control people's mind and action by injecting hormone into people's body to amplify or change their mood. With the data it collected and learned, it may even know how to induce people to have certain action by switching its hormone level. At the age of such a super surveillance, more private fields is exposed to technology.
 
-
+#### [Project Video](https://youtu.be/u_3r484y00Q)
 
 #### [Monitor Screen](https://alpha.editor.p5js.org/zygugi/sketches/SyIog1ycz)
 ![0](https://i.imgur.com/mTAnuYP.png)
