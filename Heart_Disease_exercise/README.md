@@ -1,4 +1,6 @@
-## Heart Disease Exercise
+## Heart Disease Exercise Due Monday, April 2nd
+
+### Instructions
 
 - Use the heart data found [here](http://fizyka.umk.pl/kis-old/projects/datasets.html#Cleveland)
   - (Specifically use just the data from the Cleveland Clinic, 303 samples)
