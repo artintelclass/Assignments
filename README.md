@@ -39,4 +39,14 @@ Exercise:
 * **Read & Post Separate Responses for Each** 
   * [Machine Ethics](https://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
   * [Speculative Design Chapter 1](http://readings.design/PDF/speculative-everything.pdf)
+
+### Week 6 - Due Monday, March 5
+* 50% work done on Speculative Design project
   
+### Week 7 - Due Wednesday, March 21
+* ***SPECULATIVE DESIGN PROJECT***
+
+### Week 8 - No Assignment
+
+### Week 9 - Due Monday, April 2
+* Heart Disease Exercise
