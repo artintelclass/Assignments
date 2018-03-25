@@ -49,4 +49,4 @@ Exercise:
 ### Week 8 - No Assignment
 
 ### Week 9 - Due Monday, April 2
-* Heart Disease Exercise
+* [Heart Disease Exercise](https://github.com/artintelclass/Assignments/tree/master/Heart_Disease_exercise)
