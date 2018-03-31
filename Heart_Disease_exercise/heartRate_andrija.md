@@ -17,6 +17,8 @@ This involved a few steps.
 
 Without making any changes, I had an accuracy of 0.23, or 23%.
 
+Reading through the [Keras documentation](https://keras.io) was very helpful for figuring out which arguments to change and how.
+
 Some of the changes that I made inlcuded:
 1. Altering the batch size, and num_epochs.
 2. Trying different activation functions (softplus, softsign, sigmoid, hard_sigmoid)
@@ -27,6 +29,8 @@ Some of the changes that I made inlcuded:
 Ultimately I settled with the parameters in the code below. Although not consistently, running this training and testing gave up to 93% accuracy. 
 
 ## My code
+
+You can grab the code from [here](andrija_Keras_fast.ipynb).
 
 ```python
 '''Trains a simple deep NN on Cleveland heart disease dataset.
