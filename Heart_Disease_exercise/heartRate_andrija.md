@@ -122,3 +122,4 @@ score = model.evaluate(x_test, y_test, verbose=0)
 print('Test loss:', score[0])
 print('Test accuracy:', score[1])
 ```
+[92 %]: https://github.com/artintelclass/Assignments/blob/master/Heart_Disease_exercise/Screen%20Shot%202018-04-02%20at%2012.50.02%20AM.png
