@@ -16,7 +16,7 @@ Based on certain training and valuating samples, the variable parameters we can 
 3. optimizers (such as SGD, Adam, RMSprop, etc.)
 
 Trying different matches, finnaly I made a 81.13% accuracy with batch_size=10, epochs=400, 2 layers of relu activation fuction followed by 0.25 dropout rate, and 1 layer of softmax activation functio for output.
-(result.png)
+[rsult](result.png)
 However, there is still some turbulation on results, and usually the accuracy cannot reach so high but around 75% accuracy.
 
 ## [Code](yuxin_heartdisease_exercise.ipynb)
