@@ -17,6 +17,7 @@ Based on certain training and valuating samples, the variable parameters we can 
 
 Trying different matches, finnaly I made a 81.13% accuracy with batch_size=10, epochs=400, 2 layers of relu activation fuction followed by 0.25 dropout rate, and 1 layer of softmax activation functio for output.
 ![alt text](https://github.com/artintelclass/Assignments/blob/master/Heart_Disease_exercise/result.png)
+
 However, there is still some turbulation on results, and usually the accuracy cannot reach so high but around 75% accuracy.
 
 ## [Code](yuxin_heartdisease_exercise.ipynb)
