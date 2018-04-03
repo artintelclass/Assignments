@@ -50,3 +50,11 @@ Exercise:
 
 ### Week 9 - Due Monday, April 2
 * [Heart Disease Exercise](https://github.com/artintelclass/Assignments/tree/master/Heart_Disease_exercise)
+
+### Week 10 - Due Monday, April 9
+Exercise:
+* Create at least 5 deepdream images and 5 style transfer images
+* Post a link to the images on the Responses page
+
+Read & Post:
+* [A Return to Machine Learning - Kyle McDonald](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
