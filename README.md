@@ -56,5 +56,5 @@ Exercise:
 * Create at least 5 deepdream images and 5 style transfer images
 * Post a link to the images on the Responses page
 
-Read & Post:
+Read & Post a response:
 * [A Return to Machine Learning - Kyle McDonald](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
