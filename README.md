@@ -53,7 +53,7 @@ Exercise:
 
 ### Week 10 - Due Monday, April 9
 Exercise:
-* Create at least 5 deepdream images and 5 style transfer images
+* Create at least 5 [deepdream](https://github.com/mtyka/deepdream_highres) images and 5 [style transfer](https://github.com/cysmith/neural-style-tf) images
 * Post a link to the images on the Responses page
 
 Read & Post a response:
