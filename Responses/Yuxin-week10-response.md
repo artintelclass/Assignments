@@ -4,5 +4,15 @@ In this article, Kyle shows various applications of Artificial Intelligence, fro
 ---
 Deep Dream Pictures  
 ---
+![](https://imgur.com/BIARarc)
+![](https://imgur.com/h3dtfoa)
+![](https://imgur.com/GxDrlKw)
+![](https://imgur.com/DbdZPcY)
+![](https://imgur.com/Od5brk7)
 Style Macthing Pictures
 ---
+![](https://imgur.com/ckjy05G)
+![](https://imgur.com/1sfIEhg)
+![](https://imgur.com/ICbf3d4)
+![](https://imgur.com/t4T0xo9)
+![](https://imgur.com/ujyT1hF)
