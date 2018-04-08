@@ -1,4 +1,4 @@
-##Kyle McDonald
+**Kyle McDonald
 
 Kyle's article is a great resource for people with a lot of knowledge of neural networks or even people who are just beginning to enter this field like me. The article is very well written from the first paragraph to the explanation of some complex concepts in a very reader friendly manner. 
 The best part for me in this reading was the simple fact that I was able to put everything in perspective while reading. I had recently done the assignment where we had to make 5 deep dream images and 5 style transfer images. While reading the article, I was able to place all that information properly in my mind. Everything that I was reading was enhancing my understanding of what was actually happening to the images that I was giving as inputs. 
