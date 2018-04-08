@@ -2,10 +2,14 @@ There is a lot of fear and hysteria about the future of machine learning and AI.
 
 ## Deepdream Images
 ![alt text](https://github.com/artintelclass/Assignments/blob/master/Responses/Krishna_Images/output1.jpg_00006.jpg)
-![alt text](https://github.com/artintelclass/Assignments/blob/master/Responses/Krishna_Images/output2.jpg_00006.jpg)
-![alt text](https://github.com/artintelclass/Assignments/blob/master/Responses/Krishna_Images/output3.jpg_00006.jpg)
-![alt text](https://github.com/artintelclass/Assignments/blob/master/Responses/Krishna_Images/output4.jpg_00006.jpg)
-![alt text](https://github.com/artintelclass/Assignments/blob/master/Responses/Krishna_Images/output5.jpg_00006.jpg)
+
+![alt text](https://github.com/artintelclass/Assignments/blob/master/Responses/Krishna_Images/output2.jpg_00004.jpg)
+
+![alt text](https://github.com/artintelclass/Assignments/blob/master/Responses/Krishna_Images/output3.jpg_00004.jpg)
+
+![alt text](https://github.com/artintelclass/Assignments/blob/master/Responses/Krishna_Images/output4.jpg_00004.jpg)
+
+![alt text](https://github.com/artintelclass/Assignments/blob/master/Responses/Krishna_Images/output5.jpg_00004.jpg)
 
 ## Style Tranfer Images
 
