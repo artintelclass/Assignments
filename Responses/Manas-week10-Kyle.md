@@ -5,4 +5,4 @@ The best part for me in this reading was the simple fact that I was able to put 
 One very interestnig aspect of the article was the cool examples that the author was constantly giving. For instance, I was fascintaed by the idea of the combination of CNN and RNN to give automatic image captioning. More importantly, the idea of generating entire images from captions blew my mind. 
 
 
-My images can be accessed using this link: https://drive.google.com/drive/folders/1UElBxz-zB3QONctxncijur0TTclLwxRZ?usp=sharing
+My images can be accessed using this link: https://drive.google.com/drive/folders/15EpY6gqNgq7I7NU7TvQ13PSlacnRpYtD?usp=sharing
