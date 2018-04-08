@@ -6,23 +6,23 @@
 
 Following are the file transfer images I created:
 
-Afghani Girl + Bristle Grass
+- Afghani Girl + Bristle Grass
 
 ![Drive](https://github.com/artintelclass/Assignments/blob/master/Responses/AliShazal_Images/out1.png)
 
-Al Bloom + Starry Night
+- Al Bloom + Starry Night
 
 ![Drive](https://github.com/artintelclass/Assignments/blob/master/Responses/AliShazal_Images/out4.png)
 
-Sheikh Zayed + Abstract
+- Sheikh Zayed + Abstract
 
 ![Drive](https://github.com/artintelclass/Assignments/blob/master/Responses/AliShazal_Images/out5.png)
 
-Trump + Foggy Forest
+- Trump + Foggy Forest
 
 ![Drive](https://github.com/artintelclass/Assignments/blob/master/Responses/AliShazal_Images/out2.png)
 
-Elon Musk + Blue Pond
+- Elon Musk + Blue Pond
 
 ![Drive](https://github.com/artintelclass/Assignments/blob/master/Responses/AliShazal_Images/out3.png)
 
