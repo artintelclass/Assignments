@@ -1,0 +1,5 @@
+The article by Kyle McDonald covers some of the same topics that we covered in class. While the article might not go into as much detail as we did in class, some of the overviews he provided were still useful. For example, explaining the cnn as identifying which image patches and combination of patches belongs to which category is a useful description for some of the examples we looked at in class. Furthermore, he explains deep dream as identifying the structures present in an image and then enhancing them, which is again a useful overview on how deep dream works. The RNN examples were also interesting - for example, the way in which the links were copied. While the links didn't point to anywhere in particular, the domains were real, like github and twitter, which suggests the RNN was able to mimic the  more 'consistent' and 'random' parts of a link. The Google examples of the RNN were also interesting, since the replies seemed to be consistent with relatively abstract concepts like morality and religion.
+
+
+Images:
+https://drive.google.com/open?id=15YKbGXgdJcKqMjK3RXwI12WbGBqsAyXN
