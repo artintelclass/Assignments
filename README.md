@@ -58,3 +58,13 @@ Exercise:
 
 Read & Post a response:
 * [A Return to Machine Learning - Kyle McDonald](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
+
+### Week 11 - Due Monday, April 23
+Exercise:
+* Using several different Magenta music RNNs create a short (minimum 8 measures) piece of music. Stack drum loops, melodies, improvisations, chords, etc. to create the piece. 
+* Post a link to the track on the Responses page.
+
+Final Project Start:
+* Brainstorm ideas and concepts for your [final project](https://github.com/artintelclass/Final)
+* Prepare a short presentation for class to show us what you are thinking. This could include reference images/sounds/webpages/etc., sketches, project outline, timeline, questions, etc. By Wednesday April 25th, groups and projects should be completely decided and committed to. 
+* Put all materials you used for your brain storming/class presentation in your final project repo.
