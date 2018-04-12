@@ -62,7 +62,7 @@ Read & Post a response:
 ### Week 11 - Due Monday, April 23
 Exercise:
 * Using several different Magenta music RNNs create a short (minimum 8 measures) piece of music. Stack drum loops, melodies, improvisations, chords, etc. to create the piece. 
-* Post a link to the track on the Responses page.
+* Export the track as an MP3 and post a link to the track on the Responses page.
 
 Final Project Start:
 * Brainstorm ideas and concepts for your [final project](https://github.com/artintelclass/Final)
