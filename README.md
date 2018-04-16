@@ -69,9 +69,14 @@ Final Project Start:
 * Prepare a short presentation for class to show us what you are thinking. This could include reference images/sounds/webpages/etc., sketches, project outline, timeline, questions, etc. By Wednesday April 25th, groups and projects should be completely decided and committed to. 
 * Put all materials you used for your brain storming/class presentation in your final project repo.
 
-### Week 12 - Due Monday, April 19
+### Week 12 - Due Wednesday, April 19
 
 Final Project Start:
 * Solidify and commit to an idea
 * Research and find repos/code/api's/etc that you will use
 * Outline all the technical parts/steps for the project
+
+### Week 12 - Due Monday, April 23
+
+Final Project:
+* Present progress on your final. ***Significant*** progress should have been made at this point.
