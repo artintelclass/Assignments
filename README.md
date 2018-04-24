@@ -76,7 +76,14 @@ Final Project Start:
 * Research and find repos/code/api's/etc that you will use
 * Outline all the technical parts/steps for the project
 
-### Week 12 - Due Monday, April 23
+### Week 12 - Due Wednesday, April 25
 
 Final Project:
 * Present progress on your final. ***Significant*** progress should have been made at this point.
+
+### Week 13 - Due Wednesday, May 2
+
+***Final Project Due***
+
+### Week 14 - Monday, May 7
+* IM Spring Show
