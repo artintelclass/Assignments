@@ -83,7 +83,7 @@ Final Project:
 
 ### Week 13 - Due Wednesday, May 2
 
-***Final Project Due***
+* ***Final Project Due***
 
 ### Week 14 - Monday, May 7
 * IM Spring Show
